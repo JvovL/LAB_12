@@ -2,6 +2,10 @@
 AppDrawer.kt
 HomeScreen.kt
 SubredditsScreen.kt
+Post.kt
+JoinButton.kt
+JoinedToast.kt
+
 
 # Built application files
 *.apk
